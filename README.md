@@ -17,8 +17,14 @@
 
 </p>
 
-<div>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ5dHd4OHR6Z2ZzcWltM3U2eDFhamQ4OXZ4M3Bxdml5eG16c3BmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/91yKa3BpQ6x5sDw2Ec/giphy.gif" width="200" style="float: left;" alt="left-gif">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJwdWhiZzhucnN1aWhsajB2dm9yMTg3a3h1NmR5ejB2ZHN3Ym5xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M5HkP1SGZthIDq0oSX/giphy.gif" width="100" style="float: right;" alt="right-gif">
-</div>
 <br clear="all" />
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ5dHd4OHR6Z2ZzcWltM3U2eDFhamQ4OXZ4M3Bxdml5eG16c3BmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/91yKa3BpQ6x5sDw2Ec/giphy.gif" width="200" alt="left-gif">
+    </td>
+    <td align="right">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJwdWhiZzhucnN1aWhsajB2dm9yMTg3a3h1NmR5ejB2ZHN3Ym5xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M5HkP1SGZthIDq0oSX/giphy.gif" width="100" alt="right-gif">
+    </td>
+  </tr>
+</table>
