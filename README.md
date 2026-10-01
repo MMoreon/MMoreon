@@ -1,6 +1,6 @@
 # <p align="center">👋Hello I'm Python Backend Developer</p>
 
-<p align="center">Бакалавр ПГАТУ ФЭиИТ</p>
+### <p align="center">Бакалавр ПГАТУ ФЭиИТ</p>
 
 <div align="center">
   <img alt="Python" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/Python.svg">&nbsp;&nbsp;
