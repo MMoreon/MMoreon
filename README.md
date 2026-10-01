@@ -18,6 +18,18 @@
 </p>
 
 <p align="center">
+  <img src="https://jsdelivr.net" width="48" alt="Python">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="Django">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="FastAPI">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="PostgreSQL">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="Docker">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="Git">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="VSCode">&nbsp;&nbsp;
+  <img src="https://jsdelivr.net" width="48" alt="Powershell">
+</p>
+
+
+<p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWsya243enIwZGxkeDBjbzMyMmFndXplMWM1aGwzZ21iMGM4djkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1VT3UNeWdijUSMpRL4/giphy.gif" align="left" width="160" alt="left-gif">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFkOWV0MTZ0NGU2bDQ0MWYzdHIxM2J2dHVtaG94MHAxMWtxMGRlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTgL2GvwerwpjIP46D/giphy.gif" width="230" alt="center-gif">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJwdWhiZzhucnN1aWhsajB2dm9yMTg3a3h1NmR5ejB2ZHN3Ym5xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M5HkP1SGZthIDq0oSX/giphy.gif" align="right" width="130" alt="right-gif">
