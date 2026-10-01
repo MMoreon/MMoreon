@@ -2,7 +2,16 @@
 
 <p align="center">Бакалавр ПГАТУ ФЭиИТ</p>
 
-
+<div align="center">
+  <img alt="Python" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/Python.svg">&nbsp;&nbsp;
+  <img alt="Django" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/Django.svg">&nbsp;&nbsp;
+  <img alt="FastAPI" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/FastAPI.svg">&nbsp;&nbsp;
+  <img alt="PostgreSQL" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/PostgreSQL.svg">&nbsp;&nbsp;
+  <img alt="Docker" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/Docker.svg">&nbsp;&nbsp;
+  <img alt="Git" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/GIT.svg">&nbsp;&nbsp;
+  <img alt="VSCode" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/VSCode.svg">&nbsp;&nbsp;
+  <img alt="Powershell" height="48" width="48" src="https://raw.githubusercontent.com/gui-bus/TechIcons/39bfd98a1eb81a823acdeb3b75e54fa60b95652d/Dark/Powershell.svg">
+</div>
 
 <p align="center">
 <a href="https://web.telegram.org/mmoreon" target="_blank">
@@ -14,20 +23,7 @@
 <a href="https://github.com/MMoreon" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/097d0b23dcc0d22ba7710f6c113fafd321624a79/large/filled/discord.svg" alt="Telegram" width="36">
   </a>
-
 </p>
-
-<p align="center">
-  <img src="https://jsdelivr.net" width="48" alt="Python">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="Django">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="FastAPI">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="PostgreSQL">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="Docker">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="Git">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="VSCode">&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" width="48" alt="Powershell">
-</p>
-
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWsya243enIwZGxkeDBjbzMyMmFndXplMWM1aGwzZ21iMGM4djkxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1VT3UNeWdijUSMpRL4/giphy.gif" align="left" width="160" alt="left-gif">
@@ -36,4 +32,3 @@
 </p>
 
 <br clear="all" />
-
