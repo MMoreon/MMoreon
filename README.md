@@ -17,8 +17,11 @@
 
 </p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ5dHd4OHR6Z2ZzcWltM3U2eDFhamQ4OXZ4M3Bxdml5eG16c3BmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/91yKa3BpQ6x5sDw2Ec/giphy.gif" align="left" width="200" alt="left-gif">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFkOWV0MTZ0NGU2bDQ0MWYzdHIxM2J2dHVtaG94MHAxMWtxMGRlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTgL2GvwerwpjIP46D/giphy.gif" width="120" alt="center-gif">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJwdWhiZzhucnN1aWhsajB2dm9yMTg3a3h1NmR5ejB2ZHN3Ym5xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M5HkP1SGZthIDq0oSX/giphy.gif" align="right" width="100" alt="right-gif">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJ5dHd4OHR6Z2ZzcWltM3U2eDFhamQ4OXZ4M3Bxdml5eG16c3BmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/91yKa3BpQ6x5sDw2Ec/giphy.gif" align="left" width="200" alt="left-gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFkOWV0MTZ0NGU2bDQ0MWYzdHIxM2J2dHVtaG94MHAxMWtxMGRlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTgL2GvwerwpjIP46D/giphy.gif" width="120" alt="center-gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJwdWhiZzhucnN1aWhsajB2dm9yMTg3a3h1NmR5ejB2ZHN3Ym5xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M5HkP1SGZthIDq0oSX/giphy.gif" align="right" width="100" alt="right-gif">
+</p>
 
 <br clear="all" />
+
